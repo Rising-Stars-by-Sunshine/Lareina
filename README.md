@@ -1,5 +1,5 @@
 ### Lareina's profile
-![d](./photo.jpg)
+![d](./photo.1.jpg)
 ### Education:
 -  Institution: Duke Kunshan University
 -  Degree: Pursuing Dual degree of B.A.
