@@ -1,4 +1,6 @@
-# Lareina
+### Lareina'a profile
 
 ![d](./photo.jpg)
-# Self Intro: DKU student/Psych Major
+### _DukeKunshan University_Class of 2025
+### Major 
+psychology
