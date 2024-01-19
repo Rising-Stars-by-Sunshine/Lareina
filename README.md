@@ -1,10 +1,10 @@
 ### Lareina's profile
 ![d](./photo.jpg)
-1. ### Education:
-  -Institution: Duke Kunshan University
-  -Degree: Pursuing Dual degree of B.A.
-  -Graduation year: 2025
-  -Major: Behavioral Science—Psychology
+### Education:
+  - Institution: Duke Kunshan University
+  - Degree: Pursuing Dual degree of B.A.
+  - Graduation year: 2025
+  - Major: Behavioral Science—Psychology
 ### Professional Summary:
 serving for nine months as a research assistant in a program pertaining to public mental health.
 Working as a researcher in a desk research, examining the family education strategy and self-esteem of middle school pupils, and producing a paper that is indexed in CNKI and CPCI.
