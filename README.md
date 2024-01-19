@@ -1,6 +1,6 @@
 ### Lareina's profile
 ![d](./photo.jpg)
-1. ### Education:
+### Education:
   -Institution: Duke Kunshan University
   -Degree: Pursuing Dual degree of B.A.
   -Graduation year: 2025
