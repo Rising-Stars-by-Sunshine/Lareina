@@ -13,8 +13,11 @@ Click on the article which you are interested in
 ### Step 3
 ![data query step 3.](step3.jpg)
 Scroll through the article and find links similar to those in the picture
-click *data.json* and find the link which direct to the respositories where the data located
 
 ### Step 4
 ![data query step 4.](step4.jpg)
-Copy and paste the link which show in the step 3 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
+click *data.json* and find the link which direct to the respositories where the data located
+
+### Step 5
+![data query step 5.](step5.jpg)
+Copy and paste the link which show in the step 4 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
