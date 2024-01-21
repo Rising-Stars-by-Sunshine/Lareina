@@ -2,7 +2,7 @@
 ![d](./photo.1.jpg)
 ### Education:
 -  Institution: Duke Kunshan University
--  Degree: Pursuing Dual degree of B.A.
+-  Degree: Pursuing Dual degree of B.S.
 -  Graduation year: 2025
 -  Major: Behavioral Science—Psychology
 ### Professional Summary:
