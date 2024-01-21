@@ -1,7 +1,7 @@
 ### Lareina's profile
 ![d](./photo.1.jpg)
 ### Education:
--  Institution: Duke Kunshan University
+-  Institution: *Duke Kunshan University*
 -  Degree: Pursuing Dual degree of B.S.
 -  Graduation year: 2025
 -  Major: Behavioral Science—Psychology
