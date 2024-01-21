@@ -17,9 +17,7 @@
 -  Fluent in both English and mandarin 
 -  Expertise in Photoshop, Premiere and other office softwareS
 ### Interests:
--  Photography
--  Pickleball
--  Pilates
+-  Photography/Pickleball/Pilates
 ### Contact Info:
 -  Email: yl833@duke.edu
 
