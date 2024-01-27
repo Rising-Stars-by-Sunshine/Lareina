@@ -1,6 +1,6 @@
 
 # Data
-![flowchart](flowchart2.png)
+![flowchart](flowchart3.png)
 *Figure: Flowchart of the dataset’s structure from [markmap.js](https://markmap.js.org/)*
 ## Description
 -  This dataset is imported from The Chieti Affective Action Videos database (Di Crosta, et al., 2020). It captures participants'emotions stimulate by the video they watch through self-assessment.Two major dimension of the emotion, arousal and valence are evaluated. Arousal refers to the intensity of the emotion, whereas valence denotes the emotion's positivity or negativity. About ninety actions with either a male or female main actor and first- or third-person perspectives compose the video's content. The participants are divided evenly into two groups with 50% of the partcipants are male and two groups of participants evalute the video based on arousal and valence respectively. The following data dictionary record the description of the dataset in detailed.
