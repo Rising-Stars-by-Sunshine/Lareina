@@ -22,6 +22,9 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ![data query step 5.](step5.png)
 ### Copy and paste the link which show in the step 4 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
 
+## Data Visualization
+
+
 ## The pseudocode for the data query process
 
 ### Pseudocode
@@ -38,48 +41,16 @@ This section outlines the pseudocode for the data query process in our project.
 
 ```plaintext
 Algorithm DataQueryProcess
-Input: Online_only Table 1 (2).csv
+Input:emotion.csv
 
-1. Validate and sanitize the input query_parameters
-   a. Check for required parameters
-   b. Ensure parameter values are within valid ranges
+1. Read the CSV file into a dataframe
 
-2. Construct the SQL query based on the input parameters
-   a. Initialize an empty SQL query string
-   b. Add SELECT statement
-   c. Add FROM statement with the appropriate table
-   d. Add WHERE conditions based on query_parameters
+2. Initialize 
 
 3. Execute the SQL query against the database
-   a. Establish a database connection
-   b. Execute the constructed SQL query
-   c. Fetch the result set
 
 4. Process and format the query results
-   a. Handle any data transformations or aggregations
-   b. Format the results for presentation or further analysis
 
 5. Return the formatted results to the user or application
 
-
-1. Validate and sanitize the input query_parameters
-   a. Check for required parameters
-   b. Ensure parameter values are within valid ranges
-
-2. Construct the SQL query based on the input parameters
-   a. Initialize an empty SQL query string
-   b. Add SELECT statement
-   c. Add FROM statement with the appropriate table
-   d. Add WHERE conditions based on query_parameters
-
-3. Execute the SQL query against the database
-   a. Establish a database connection
-   b. Execute the constructed SQL query
-   c. Fetch the result set
-
-4. Process and format the query results
-   a. Handle any data transformations or aggregations
-   b. Format the results for presentation or further analysis
-
-5. Return the formatted results to the user or application
 
