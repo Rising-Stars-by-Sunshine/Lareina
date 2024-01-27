@@ -6,7 +6,7 @@
 | Variable | Meaning | Data Type | Varaible Value 1 | Variable value 3 | Unit| range |
 |----------|------------|-------------|-----------|-------|------|------|
 |Video_ID|Code assigned to each video in the database| Numerical|     -      |    -   |   -   |   -   |
-|Action_description|Description of the action presented in each video| String|     -      -   |   -   | -| 
+|Action_description|Description of the action presented in each video| String|     -   |     -   |   -   | -| 
 |POV|Point of View| Categorical| first-person perspective| third-person perspective|   -   |  -    |
 |Gender|Gender of the main actor| Nominal|     -      |     -  |    -  |  -    |
 |V_M_Tot|Valence mean score obtained from the rating|Numerical|     -      |   -    |   -   | -   | 
