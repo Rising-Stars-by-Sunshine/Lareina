@@ -1,6 +1,6 @@
 # Literature Review
 ![flowchart](flowchart.png)
-### *Flowchart of the research’s structure from markmap.js* 
+*Figure: Flowchart of the research’s structure from markmap.js* 
 ## Background and Motivation:
 What motivates this research is the importance of comprehending human emotions in the digital age, especially on social media sites like Facebook, Google, and Twitter since these platforms function as forums for people to express their thoughts and emotions (Sharma et al., 2021). Furthermore, numerous disciplines, such as psychology, political science, marketing, artificial intelligence, and human-computer interaction, have extensive uses for emotion analysis (Sharma et al., 2021). Finally, emotion detection plays an important role in improving several applications, including pandemic management, emergency response, and personalized recommendation systems which have significant practical meaning (Sharma et al., 2021). However, the complexities of human emotions, coupled with language intricacies, pose challenges in accurately annotating and distinguishing emotions (Sharma et al., 2021. Existing literature lacks comprehensive solutions for efficient emotion detection, especially in textual content (Sharma et al., 2021). Thus this research tends to compare different Machine learning algorithms in emotion detection and sentiment analysis (Sharma et al., 2021). 
 ## Research Questions:
