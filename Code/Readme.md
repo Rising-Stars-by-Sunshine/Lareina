@@ -27,8 +27,40 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ### Pseudocode
 
 ```plaintext
-Algorithm DataQueryProcess(query_parameters)
-Input: query_parameters (e.g., filters, date range, etc.)
+Algorithm DataQueryProcess
+Input: # Project Title
+
+## Data Query Process
+
+This section outlines the pseudocode for the data query process in our project.
+
+### Pseudocode
+
+```plaintext
+Algorithm DataQueryProcess
+Input: Online_only Table 1 (2).csv
+
+1. Validate and sanitize the input query_parameters
+   a. Check for required parameters
+   b. Ensure parameter values are within valid ranges
+
+2. Construct the SQL query based on the input parameters
+   a. Initialize an empty SQL query string
+   b. Add SELECT statement
+   c. Add FROM statement with the appropriate table
+   d. Add WHERE conditions based on query_parameters
+
+3. Execute the SQL query against the database
+   a. Establish a database connection
+   b. Execute the constructed SQL query
+   c. Fetch the result set
+
+4. Process and format the query results
+   a. Handle any data transformations or aggregations
+   b. Format the results for presentation or further analysis
+
+5. Return the formatted results to the user or application
+
 
 1. Validate and sanitize the input query_parameters
    a. Check for required parameters
