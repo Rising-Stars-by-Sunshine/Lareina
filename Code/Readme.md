@@ -22,11 +22,7 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ![data query step 5.](step5.png)
 ### Copy and paste the link which show in the step 4 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
 
-# Project Title
-
-## Data Query Process
-
-This section outlines the pseudocode for the data query process in our project.
+## The pseudocode for the data query process
 
 ### Pseudocode
 
