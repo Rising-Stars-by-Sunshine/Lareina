@@ -5,8 +5,8 @@
 
 | Variable | Definition | Description | Frequency | Range | Unit | Type |
 |----------|------------|-------------|-----------|-------|------|------|
-| Var1     |            |             |           |       |      |      |
-| Var2     |            |             |           |       |      |      |
+| Video_ID |            |             |           |       |      |      |
+| Action_description|            |             |           |       |      | 
 | ...      |            |             |           |       |      |      |
 
 ## Citation
