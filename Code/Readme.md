@@ -1,5 +1,7 @@
 # Description 
 This file is used to describe the data query procedure.
+![flowchart](flowchart4.png)
+*Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 # Data Query
 The data was downloaded from the website [scientific Data](https://www.nature.com/sdata/).Below is the specific querying procedure.
 ## Step 1
@@ -23,7 +25,7 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ### Copy and paste the link which show in the step 4 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
 
 ## Data Visualization
-
+[google colab](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/Lareina/main/Data/emotion.csv)
 
 ## The pseudocode for the data query process
 
