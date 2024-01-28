@@ -26,4 +26,6 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 
 ## Data Visualization
 [google colab](https://colab.research.google.com/drive/1E-fTDAt_tkpsYSSr7L0pUIUXYDKfmqpi)
+![data visualization example 1](visualization1.png)
+![data visualization example 2](visualization2.png)
 
