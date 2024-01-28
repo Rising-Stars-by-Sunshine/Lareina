@@ -2,13 +2,13 @@
 ## Description
 This repository contains studies on the prediction of emotions. The data utilized for the study are documented in this repository, together with particulars on the data and data query procedure. Research-related literature and research proposal materials are also included. 
 ## Table of content
+Readme.md
+[Literature](https://github.com/Rising-Stars-by-Sunshine/Lareina/tree/main/Literature)
 -  Readme.md
--  Literature
-  -  Readme.md
--  Data
-  -  Readme.md
--  Code
-  -  Readme.md
+[Data](https://github.com/Rising-Stars-by-Sunshine/Lareina/tree/main/Data)
+-  Readme.md
+[Code](https://github.com/Rising-Stars-by-Sunshine/Lareina/tree/main/Code)
+-  Readme.md
 ## About the author
 ![d](./photo.1.jpg)
 ### Education:
