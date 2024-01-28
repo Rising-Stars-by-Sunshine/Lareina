@@ -1,6 +1,6 @@
 # Description
 ### This file include the *summary* of a paper which applies machine learning methodologies and *a research proposal*
-# Literature Review
+# 1.1 Literature Review
 ![flowchart](flowchart.png)
 *Figure: Flowchart of the paper’s structure from [markmap.js](https://markmap.js.org/)* 
 ## Background and Motivation:
@@ -18,7 +18,7 @@ The study's applications extend to real-world scenarios, including assisting in 
 ## Reference：
 Sharma, T., Diwakar, M., Singh, P., Lamba, S., Kumar, P., & Joshi, K. (2021). Emotion Analysis for predicting the emotion labels using Machine Learning approaches. 2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON). https://doi.org/10.1109/upcon52273.2021.9667562
 
-# Research Proposal
+# 1.2 Research Proposal
 ![flowchart](flowchart1.png)
 *Figure: Flowchart of the research proposal’s structure from [markmap.js](https://markmap.js.org/)* 
 ## Title: 
