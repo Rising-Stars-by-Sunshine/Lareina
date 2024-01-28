@@ -25,7 +25,8 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ### Copy and paste the link which show in the step 4 to a new tab. Scroll down to the bottom of the page, find the dataset that you are seeking for and then download it to your laptop.
 
 ## Data Visualization
-[google colab](https://colab.research.google.com/drive/1E-fTDAt_tkpsYSSr7L0pUIUXYDKfmqpi)
+It is advised to visualize data by displaying the relationship between variables using the [Google Colab(https://colab.research.google.com/drive/1E-fTDAt_tkpsYSSr7L0pUIUXYDKfmqpi)
+The following pictures are some data visualization examples. It shows the relationship between the mean of participants' emotion valence and the perspectives of the video which devided by the video actor's gender.
 ![data visualization example 1](visualization1.png)
 ![data visualization example 2](visualization2.png)
 
