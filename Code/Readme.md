@@ -27,32 +27,3 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 ## Data Visualization
 [google colab](https://colab.research.google.com/drive/1E-fTDAt_tkpsYSSr7L0pUIUXYDKfmqpi)
 
-## The pseudocode for the data query process
-
-### Pseudocode
-
-```plaintext
-Algorithm DataQueryProcess
-Input: # Project Title
-
-## Data Query Process
-
-This section outlines the pseudocode for the data query process in our project.
-
-### Pseudocode
-
-```plaintext
-Algorithm DataQueryProcess
-Input:emotion.csv
-
-1. Read the CSV file into a dataframe
-
-2. Initialize 
-
-3. Execute the SQL query against the database
-
-4. Process and format the query results
-
-5. Return the formatted results to the user or application
-
-
