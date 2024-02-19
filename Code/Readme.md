@@ -3,7 +3,7 @@ This file is used to describe the data query procedure.
 ![flowchart](flowchart5.png)
 *Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Data Query
-The data was downloaded from the website [scientific Data](https://www.nature.com/sdata/).Below is the specific querying procedure.
+The data was downloaded from the website [kaggle](https://www.kaggle.com/datasets).Below is the specific querying procedure.
 ### Step 1
 ![data query step 1.](step_1.png) 
 -  Search Kaggle in Google and click *Dataset*
@@ -18,9 +18,11 @@ The data was downloaded from the website [scientific Data](https://www.nature.co
 
 
 ## Data Visualization
-It is advised to visualize data by displaying the relationship between variables using the [Google Colab](https://colab.research.google.com/drive/1E-fTDAt_tkpsYSSr7L0pUIUXYDKfmqpi).
+It is advised to visualize data by displaying the relationship between variables using the [Google Colab](https://colab.research.google.com/drive/1PRAbngey6B_vwdBE0yUL58sk4JAP3N71).
 -  The following pictures are some data visualization examples. 
-![data visualization example 1](visualization1.png)
--  It shows the relationship between the mean of participants' emotion valence and the perspectives of the video which devided by the video actor's gender.
-![data visualization example 2](visualization2.png)
+![data visualization example](visualization_.png)
+- It shows the world sugar price over time from 1960 to 2022. The unit is in USD.
+
+## Data Precprocessing
+[github]()
 
