@@ -1,6 +1,6 @@
 # Description 
 This file is used to describe the data query procedure.
-![flowchart](flowchart5.png)
+![flowchart](flowchart6.png)
 *Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Data Query
 The data was downloaded from the website [kaggle](https://www.kaggle.com/datasets).Below is the specific querying procedure.
@@ -25,5 +25,5 @@ It is advised to visualize data by displaying the relationship between variables
 
 ## Data Precprocessing
 [github](https://github.com/Rising-Stars-by-Sunshine/Lareina/blob/main/Code/data_preprocess.ipynb)
-
+![example](preprocess.png)
 - Delete unused variables and ensure that the date representation is recognized by Python
