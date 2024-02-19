@@ -8,12 +8,13 @@
 ## Data Source
 [scientific data](https://www.nature.com/articles/s41597-020-0366-1)
 ## Data Dictionary
-| Variable| Meaning                                 | Data Type | unit | range|
-|---------|-----------------------------------------|-----------|-------------------|
-| Date| Date of the recorded sugar price| Date      | -                 | -                 | 
-| sugar_eu| europe sugar price          | Numeric   | -                 | -                 | 
-| sugar_us | united state sugar price   | Numeric   | -                 | -                 |
-|sugar_world      | world sugare price  | Categorical | -               | -                 |
+| Variable        | Meaning                        | Data Type | Unit | Range |
+|-----------------|--------------------------------|-----------|------|-------|
+| Date            | Date of the recorded sugar price| Date      | 1   | 1960-1-1 to 2022-12-1  |
+| sugar_eu        | Europe sugar price              | Numeric   | 1    | 0.112215 to 0.783171    |
+| sugar_us        | United States sugar price       | Numeric   | 1    | 0.116845 to 1.263247     |
+| sugar_world     | World sugar price               | Categorical | 1  | 0.028700 to 1.237700    |
+
 
 ## Citation
 -  Di Crosta, Adolfo; La Malva, Pasquale; Manna, Claudio; Marin, Anna; Palumbo, Rocco; Verrocchio, Maria Cristina; et al. (2020). Chieti Affective Action Video - CAAV: Technical Manual and Affective Rating. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4691840.v1
