@@ -2,19 +2,19 @@
 ![flowchart](flowchart3.png)
 *Figure: Flowchart of the dataset’s structure from [markmap.js](https://markmap.js.org/)*
 ## Description and why related to research
--  This dataset is imported from The Chieti Affective Action Videos database (Di Crosta, et al., 2020). It captures participants'emotions stimulate by the video they watch through self-assessment.Two major dimension of the emotion, arousal and valence are evaluated. Arousal refers to the intensity of the emotion, whereas valence denotes the emotion's positivity or negativity. About ninety actions with either a male or female main actor and first- or third-person perspectives compose the video's content. The participants are divided evenly into two groups with 50% of the partcipants are male and two groups of participants evalute the video based on arousal and valence respectively. The following data dictionary record the description of the dataset in detailed.
--  There is sufficient high-quality data in this dataset for the machine learning algorithm to use. Along with the participant's emotional valence and arousal, the dataset also included specific information about the protagonist's gender and the video's filming perspective. This directly helps to answer the question I'm researching which is *When confronted with individuals of different genders from different perspectives, how may individual emotions respond differently?* 
+-  The "selected World Bank commodity price data" dataset on Kaggle includes monthly commodity prices from the World Bank's "pink sheet." Applications such as data collection, indexing, cointegration, inflation adjustments, and general economic analysis can all benefit from this data collection. The dataset focuses on nominal prices in USD and includes a wide range of goods. A few of the dataset's most important variables are the prices of crude oil (Brent, Dubai Fateh), coffee (Arabica and Robustas), tea (from Colombo, Kolkata, and Mombasa/Nairobi auctions), and sugar (from the United States, the European Union, and the world under the International Sugar Agreement).
+-  This dataset is especially relevant to my study on predicting global sugar prices and identifying key events that affect sugar prices. It offers a thorough historical record of sugar prices, documenting fluctuations under various economic scenarios and world events. In-depth analysis, prediction models, and patterns or trends that could affect sugar prices around the world can be investigated using this dataset. Incorporating other commodities like oil, coffee, and tea can also provide light on broader economic issues that may affect sugar pricing. All things considered, the dataset is a useful resource for comprehending and forecasting global sugar price fluctuations within the framework of a larger commodity market.
 
 ## Data Source
-[scientific data](https://www.nature.com/articles/s41597-020-0366-1)
+[kaggle](https://www.kaggle.com/datasets)
 ## Data Dictionary
 | Variable        | Meaning                        | Data Type | Unit | Range |
 |-----------------|--------------------------------|-----------|------|-------|
 | Date            | Date of the recorded sugar price| Date      | 1   | 1960-1-1 to 2022-12-1  |
-| sugar_eu        | Europe sugar price              | Numeric   | 1    | 0.112215 to 0.783171    |
-| sugar_us        | United States sugar price       | Numeric   | 1    | 0.116845 to 1.263247     |
-| sugar_world     | World sugar price               | Categorical | 1  | 0.028700 to 1.237700    |
+| sugar_eu        | Europe sugar price              | Numeric   | $/kg    | 0.112215 to 0.783171    |
+| sugar_us        | United States sugar price       | Numeric   | $/kg   | 0.116845 to 1.263247     |
+| sugar_world     | World sugar price               | Categorical | $/kg  | 0.028700 to 1.237700    |
 
 
 ## Citation
--  Di Crosta, Adolfo; La Malva, Pasquale; Manna, Claudio; Marin, Anna; Palumbo, Rocco; Verrocchio, Maria Cristina; et al. (2020). Chieti Affective Action Video - CAAV: Technical Manual and Affective Rating. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4691840.v1
+-  Singh, U. (2023, May). Global Commodity Prices: Monthly Data (1960-2022). Www.kaggle.com. https://www.kaggle.com/datasets/utkarshx27/select-world-bank-commodity-price-data
