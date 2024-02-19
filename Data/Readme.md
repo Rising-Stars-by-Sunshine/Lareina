@@ -8,25 +8,12 @@
 ## Data Source
 [scientific data](https://www.nature.com/articles/s41597-020-0366-1)
 ## Data Dictionary
-| Variable | Meaning | Data Type | Varaible Value 1 | Variable value 3 | Unit| range |
-|----------|------------|-------------|-----------|-------|------|------|
-|Video_ID|Code assigned to each video in the database| Numerical|     -      |    -   |   1  |   -   |
-|Action_description|Description of the action presented in each video| String|     -   |     -   |   Char   | -| 
-|POV|Point of View| Categorical| first-person perspective| third-person perspective|   1   |  -    |
-|Gender|Gender of the main actor| Nominal|     -      |     -  |    Char  |  -    |
-|V_M_Tot|Valence mean score obtained from the rating|Numerical|     -      |   -    |   1   | -   | 
-|V_SD_Tot|Valence standard deviation obtained from the rating| Numerical|      -     |   -    |    1 |    -  |
-|A_M_Tot|Arousal mean score obtained from the rating|Numerical|       -    |    -   |   1   |  -    |
-|A_SD_Tot|Arousal standard deviation obtained from the rating|Numerical|      -     |    -   |   1   | -   | 
-|V_M_Fem| Valence mean score obtained from the rating by female subjects|Numerical|     -      |-       |  1   |   -   |
-|V_SD_Fem|Valence standard deviation obtained from the rating by female subjects|Numerical|     -   |    -   |  1    | -    |
-|V_M_Mal|Valence mean score obtained from the rating by male subjects|Numerical|     -      |   -    |   1   | -   | 
-|V_SD_Mal|Valence standard deviation obtained from the rating by male subjects|Numerical|   -     | -      | 1   |  -    |
-|A_M_Fem|Arousal mean score obtained from the rating by female subjects| Numerical|    -     |  -     |  1  |   -   |
-|A_SD_Fem|Arousal standard deviation obtained from the rating by female subjects|Numerical|       -  |   -    |  1   | -    |
-|A_M_Mal|Arousal mean score obtained from the rating by male subjects|Numerical|      -   |   -    |   1   |  -    |
-|A_SD_Mal|Arousal standard deviation obtained from the rating by male subjects|Numerical|      -   |  -     |  1    |   -   |
-
+| Variable| Meaning                                 | Data Type | unit | range|
+|---------|-----------------------------------------|-----------|-------------------|
+| Date| Date of the recorded sugar price| Date      | -                 | -                 | 
+| sugar_eu| europe sugar price          | Numeric   | -                 | -                 | 
+| sugar_us | united state sugar price   | Numeric   | -                 | -                 |
+|sugar_world      | world sugare price  | Categorical | -               | -                 |
 
 ## Citation
 -  Di Crosta, Adolfo; La Malva, Pasquale; Manna, Claudio; Marin, Anna; Palumbo, Rocco; Verrocchio, Maria Cristina; et al. (2020). Chieti Affective Action Video - CAAV: Technical Manual and Affective Rating. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4691840.v1
