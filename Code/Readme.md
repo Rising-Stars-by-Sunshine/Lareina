@@ -24,5 +24,6 @@ It is advised to visualize data by displaying the relationship between variables
 - It shows the world sugar price over time from 1960 to 2022. The unit is in USD.
 
 ## Data Precprocessing
-[github]()
+[github](https://github.com/Rising-Stars-by-Sunshine/Lareina/blob/main/Code/data_preprocess.ipynb)
 
+- Delete unused variables and ensure that the date representation is recognized by Python
