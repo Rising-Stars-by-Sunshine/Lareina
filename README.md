@@ -1,6 +1,7 @@
-# Emotion Prediction Research Project
+# World Sugar Price Prediction and Analysis Research Project
 ## Description
-This repository contains studies on the prediction of emotions. The data utilized for the study are documented in this repository, together with particulars on the data and data query procedure. Research-related literature and research proposal materials are also included. 
+This resource is devoted to studies and research on global sugar price prediction. It functions as a complete resource, containing the datasets required to do studies and forecasts regarding the price of sugar. The repository offers comprehensive details on the datasets used, providing an understanding of their architecture and the steps taken to query the data. Additionally, the repository also contains a thorough coding process that provides a step-by-step manual for putting machine learning models into practice for precise and successful prediction. Furthermore, the repository contains a detailed description of the machine learning workflow, which includes the methods, algorithms, and assessment measures used throughout the predictive modeling phase. The augmented content guarantees that users obtain not only the requisite datasets and research materials but also gain a comprehensive comprehension of the technical facets associated with the creation and implementation of machine learning models customized for global sugar price forecasting.
+ 
 ## Table of content
 -  [Readme.md](https://github.com/Rising-Stars-by-Sunshine/Lareina/blob/main/README.md)
 -  [Literature](https://github.com/Rising-Stars-by-Sunshine/Lareina/tree/main/Literature)
