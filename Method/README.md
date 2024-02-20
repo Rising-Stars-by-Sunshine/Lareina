@@ -1,3 +1,8 @@
+# Description 
+This file is used to describe the research method.
+![flowchart](flowchart7.png)
+*Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
+
 # The Prediction Problem
 
 ## Research Question Formulation:
