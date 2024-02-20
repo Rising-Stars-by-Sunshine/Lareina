@@ -56,4 +56,6 @@ Assess the model's performance using metrics like Mean Squared Error (MSE) and R
 ### - Iterative Improvement: 
 Implement continuous model refinement by adjusting hyperparameters, experimenting with additional features, and exploring alternative algorithms to enhance predictive accuracy through regular assessments and feedback loops.
 
-
+### Potential outcome
+![prediction](prediction.png)
+![prediction1](prediction1.png)
