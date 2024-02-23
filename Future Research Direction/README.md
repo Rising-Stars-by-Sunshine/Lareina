@@ -26,7 +26,7 @@ Incorporating these causal inference methods is expected to lead to a more robus
 The expected contributions of this research will have both intellectual and practical impacts. Intellectually, it will enrich the economic literature on commodity pricing and causal inference, highlighting new possibilities offered by machine learning techniques in the field of econometrics. Practically, it would help industry players and policy-makers in the agricultural sector to anticipate and mitigate the consequences of price volatility, leading to more stable and efficient markets.
 
 
-# Optimization of Sugar Price Prediction Using Reinforcement Learning
+# Optimization of Sugar Price Policy Using Reinforcement Learning
 ![flowchart](flowchart13.png)
 *Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Background and Motivation
