@@ -6,21 +6,21 @@
 ## Background and Motivation:
 -  This research delves into the globalization of the world economy, particularly focusing on the evolution of the sugar market, its susceptibility to speculation, and the impact of financialization (Maitah & Smutka, 2018). The historical roots trace back to the 1970s with the Bretton Woods and Smithsonian agreements, resulting in freely floating exchange rates and the deregulation of financial markets (Maitah & Smutka, 2018). The motivation lies in understanding how these factors, coupled with speculative activities, influence sugar prices, which have experienced unprecedented fluctuations.
 -  The research holds significance in the context of global economic dynamics, especially in understanding how financialization and speculative activities impact agricultural commodity markets. The findings can contribute to discussions on market stability, policy implications, and the broader implications of global economic trends on specific sectors like sugar production.
-**Unsolved Issues or Problems:**
+## Unsolved Issues or Problems:
 -  The literature and real-world scenarios reveal a gap in understanding the intricate relationship between financialization, speculation, and the volatility of agricultural commodity prices, particularly in the sugar market. The rising interest of speculators and the unprecedented price fluctuations pose challenges that need exploration.
-**Research Questions:**
+## Research Questions:
 1. How has the globalization and financialization of the world economy influenced the evolution of sugar prices?
 2. What role do speculative activities, particularly by hedge funds, play in the fluctuations of sugar prices?
 3. How has the sugar market responded to external factors such as the 2008/2009 financial crisis and the growing demand for biofuels?
-**Methodology:**
+## Methodology:
 -  This research utilizes data from World Bank Commodity Price Data, F. O. Licht, and TRADING ECONOMICS, focusing on the World Sugar Price (ISA contract No. 11) from 1960 to 2016. The study employs statistical indicators for analyzing price developments, including average value, median, variation coefficient, and deviation from the average. Custom analyses are conducted using pounds as the unit, and data is analyzed at current US dollar prices.
-**Potential Results:**
-1. Identification of changes in sugar price development over different decades.
-2. Evaluation of the impact of speculative trades on the frequency and intensity of price fluctuations.
-3. Examination of the correlation between financialization and the destabilization of sugar prices.
+## Potential Results:
+-  Identification of changes in sugar price development over different decades.
+-  Evaluation of the impact of speculative trades on the frequency and intensity of price fluctuations.
+-  Examination of the correlation between financialization and the destabilization of sugar prices.
 -  Potential findings may indicate a correlation between speculative activities and increased volatility in sugar prices.
 -  Limitations include the reliance on historical data and potential challenges in isolating the impact of speculation from other market dynamics.
-**Intellectual Merits and Impacts:**
+## Intellectual Merits and Impacts:
 -  The research advances existing literature by providing insights into the dynamics of the sugar market under the influence of financialization and speculation. Limitations include the need for ongoing research to address evolving market conditions. The findings may inspire future studies on market stability and policy recommendations.
 -  The research contributes to discussions on the role of speculation in agricultural commodity markets, providing potential insights for policymakers, market participants, and researchers. Applications include informing decisions related to market regulations, risk management, and sustainable agricultural practices.
 ## Reference 
