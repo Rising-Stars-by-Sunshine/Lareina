@@ -35,7 +35,7 @@ Global sugar markets exhibit complex dynamics influenced by a myriad of factors 
 
 ## Research Questions
 
-Our exploration is driven by the following research questions:
+The exploration is driven by the following research questions:
 
 1. How can we optimize decision-making policies to stabilize or benefit from sugar price fluctuations?
 2. What reinforcement learning strategies can be applied to model and navigate the complexities of the sugar market?
