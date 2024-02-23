@@ -32,39 +32,20 @@
 Prediction of World Sugar Price and Identifying Causal Relationships with Supply-Demand Changes
 
 ## Background and Motivation
-The global sugar market has witnessed unprecedented volatility, influenced by factors such as financialization, speculation, and external economic events. Understanding the dynamics of world sugar prices is crucial for stakeholders ranging from producers to policymakers. This research aims to contribute to the comprehension of these dynamics, providing insights for more informed decision-making in the sugar industry.
-
-### Application Scenarios or Broader Views
--  Market Stability:Enhance our understanding of the factors affecting sugar prices to contribute to overall market stability.
--  Policy Implications:Provide insights for policymakers to formulate effective strategies for managing sugar markets.
--  Sector-Specific Impacts:Identify how changes in sugar prices impact various stakeholders, from producers to consumers.
-
-### Unsolved Issues or Problems
--  Volatility Sources:The sources of price volatility in the sugar market are not fully understood.
--  Causal Relationships:Existing literature lacks a comprehensive analysis of the causal relationships between supply-demand changes and world sugar prices.
+-  The global sugar market has witnessed unprecedented volatility, influenced by factors such as financialization, speculation, and external economic events. Understanding the dynamics of world sugar prices is crucial for stakeholders ranging from producers to policymakers. This research aims to contribute to the comprehension of these dynamics, providing insights for more informed decision-making in the sugar industry. The potential result can enhance our understanding of how supply-demand dynapmic affect sugar prices and provide insights for policymakers to formulate effective strategies for managing sugar markets. This research gap is that the sources of price volatility in the sugar market are not fully understood. Also, existing literature lacks a comprehensive analysis of the causal relationships between supply-demand changes and world sugar prices.
 
 ## Research Questions
 1. How can we predict future world sugar prices based on historical data and market trends?**
 2. What causal relationships exist between supply-demand changes and fluctuations in world sugar prices?
 
 ## Methodology
-
-### Data Source and Datasets
--  Utilize comprehensive data from World Bank Commodity Price Data.
--  Focus on the World Sugar Price from 1960 to 2022.
-
-### Machine Learning Algorithms
-- Implement RDD machine learning algorithms for predictive modeling and causal analysis.
-- Explore time-series analysis and regression models.
+-  This research is going to utilize comprehensive data from World Bank Commodity Price Data and focus on the World Sugar Price from 1960 to 2022. RDD machine learning algorithms for predictive modeling and causal analysis will be implemented. Regression model will be used to explore time-series analysis.
   
 ## Potential Results
-1. Prediction Models:Develop accurate prediction models for future world sugar prices.
-2. Causal Relationships: Identify and quantify the causal relationships between supply-demand changes and sugar price fluctuations.
+-  Accurate prediction models will be developed for future world sugar prices. The result will also identify and quantify the causal relationships between supply-demand changes and sugar price fluctuations.
 
 ### Implications and Limitations
--  Market Insights:Findings can inform stakeholders about market trends, supporting better decision-making.
--  Policy Recommendations:Provide policymakers with data-driven recommendations for managing sugar markets.
--  Limitation: Potential limitations include the reliance on historical data and challenges in isolating specific causal factors.
+-  The research findings can ibe used to nform stakeholders about market trends, supporting better decision-making. It can also provide policymakers with data-driven recommendations for managing sugar markets. However, the potential limitations might be the reliance on historical data and challenges in isolating specific causal factors.
 
 ## Intellectual Merits and Intellectual Impacts
 -  Future Extensions:Acknowledge limitations and suggest further extensions for future research to continue exploring evolving market conditions.
