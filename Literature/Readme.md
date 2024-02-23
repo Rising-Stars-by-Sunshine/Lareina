@@ -1,22 +1,30 @@
 # Description
 ### This file include the *summary* of a paper which applies machine learning methodologies and *a research proposal*
 # 1.1 Literature Review
-![flowchart](flowchart.png)
+![flowchart](flowchart10.png)
 *Figure: Flowchart of the paper’s structure from [markmap.js](https://markmap.js.org/)* 
 ## Background and Motivation:
-What motivates this research is the importance of comprehending human emotions in the digital age, especially on social media sites like Facebook, Google, and Twitter since these platforms function as forums for people to express their thoughts and emotions (Sharma et al., 2021). Furthermore, numerous disciplines, such as psychology, political science, marketing, artificial intelligence, and human-computer interaction, have extensive uses for emotion analysis (Sharma et al., 2021). Finally, emotion detection plays an important role in improving several applications, including pandemic management, emergency response, and personalized recommendation systems which have significant practical meaning (Sharma et al., 2021). However, the complexities of human emotions, coupled with language intricacies, pose challenges in accurately annotating and distinguishing emotions (Sharma et al., 2021. Existing literature lacks comprehensive solutions for efficient emotion detection, especially in textual content (Sharma et al., 2021). Thus this research tends to compare different Machine learning algorithms in emotion detection and sentiment analysis (Sharma et al., 2021). 
-## Research Questions:
-Just as the questions listed in the flowchart. The research tries to answer “How do different machine learning algorithms, including Logistic Regression, Naïve Bayes, RNN, GRU, and LSTM, perform in emotion detection from tweets?” and “What are the strengths and weaknesses of these models in the context of emotion detection?”
-## Methodology:
-The study employs a comparative approach, evaluating the performance of various machine learning algorithms—Logistic Regression, Naïve Bayes, RNN, GRU, and LSTM—on emotion detection (Sharma et al., 2021). Two datasets are utilized, one for Logistic Regression and Naïve Bayes and another for GRU and LSTM models. The analysis involves assessing accuracy results for each algorithm (Sharma et al., 2021).
-## Potential Results:
-Potential findings include comparing the accuracy of various machine learning algorithms and analyzing each model's advantages and disadvantages in terms of emotion recognition, which is also indicated in the flowchart (Sharma et al., 2021). More specifically, LSTM outperforms GRU and Logistic Regression outperforms Naïve Bayes in terms of accuracy for emotion classification (Sharma et al., 2021). 
-## Intellectual Merits and Impacts:
-The research holds implications for improving emotion detection across various applications. It also advances existing literature by incorporating advanced machine learning techniques and introducing RNN architectures (GRU, LSTM) to address gradient-related issues (Sharma et al., 2021). Acknowledging the limitations, the study encourages future research to enhance performance and achieve better results.
-## Applications to Real-world Issues:
-The study's applications extend to real-world scenarios, including assisting in political science, marketing, and human-computer interaction through emotion detection (Sharma et al., 2021). Additionally, the research can aid in emergency response and pandemic management by understanding public opinions (Sharma et al., 2021). Finally, the findings have the potential to inform decision-making processes in real-time based on sentiment analysis of social media data.
-## Reference：
-Sharma, T., Diwakar, M., Singh, P., Lamba, S., Kumar, P., & Joshi, K. (2021). Emotion Analysis for predicting the emotion labels using Machine Learning approaches. 2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON). https://doi.org/10.1109/upcon52273.2021.9667562
+-  This research delves into the globalization of the world economy, particularly focusing on the evolution of the sugar market, its susceptibility to speculation, and the impact of financialization (Maitah & Smutka, 2018). The historical roots trace back to the 1970s with the Bretton Woods and Smithsonian agreements, resulting in freely floating exchange rates and the deregulation of financial markets (Maitah & Smutka, 2018). The motivation lies in understanding how these factors, coupled with speculative activities, influence sugar prices, which have experienced unprecedented fluctuations.
+-  The research holds significance in the context of global economic dynamics, especially in understanding how financialization and speculative activities impact agricultural commodity markets. The findings can contribute to discussions on market stability, policy implications, and the broader implications of global economic trends on specific sectors like sugar production.
+**Unsolved Issues or Problems:**
+-  The literature and real-world scenarios reveal a gap in understanding the intricate relationship between financialization, speculation, and the volatility of agricultural commodity prices, particularly in the sugar market. The rising interest of speculators and the unprecedented price fluctuations pose challenges that need exploration.
+**Research Questions:**
+1. How has the globalization and financialization of the world economy influenced the evolution of sugar prices?
+2. What role do speculative activities, particularly by hedge funds, play in the fluctuations of sugar prices?
+3. How has the sugar market responded to external factors such as the 2008/2009 financial crisis and the growing demand for biofuels?
+**Methodology:**
+-  This research utilizes data from World Bank Commodity Price Data, F. O. Licht, and TRADING ECONOMICS, focusing on the World Sugar Price (ISA contract No. 11) from 1960 to 2016. The study employs statistical indicators for analyzing price developments, including average value, median, variation coefficient, and deviation from the average. Custom analyses are conducted using pounds as the unit, and data is analyzed at current US dollar prices.
+**Potential Results:**
+1. Identification of changes in sugar price development over different decades.
+2. Evaluation of the impact of speculative trades on the frequency and intensity of price fluctuations.
+3. Examination of the correlation between financialization and the destabilization of sugar prices.
+-  Potential findings may indicate a correlation between speculative activities and increased volatility in sugar prices.
+-  Limitations include the reliance on historical data and potential challenges in isolating the impact of speculation from other market dynamics.
+**Intellectual Merits and Impacts:**
+-  The research advances existing literature by providing insights into the dynamics of the sugar market under the influence of financialization and speculation. Limitations include the need for ongoing research to address evolving market conditions. The findings may inspire future studies on market stability and policy recommendations.
+-  The research contributes to discussions on the role of speculation in agricultural commodity markets, providing potential insights for policymakers, market participants, and researchers. Applications include informing decisions related to market regulations, risk management, and sustainable agricultural practices.
+## Reference 
+Maitah, M., & Smutka, L. (2018). The Development of World Sugar Prices. Sugar Tech, 21(1), 1–8. https://doi.org/10.1007/s12355-018-0618-y
 
 # 1.2 Research Proposal
 ![flowchart](flowchart1.png)
