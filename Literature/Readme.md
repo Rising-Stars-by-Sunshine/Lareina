@@ -6,7 +6,6 @@
 ## Background and Motivation:
 -  This research delves into the globalization of the world economy, particularly focusing on the evolution of the sugar market, its susceptibility to speculation, and the impact of financialization (Maitah & Smutka, 2018). The historical roots trace back to the 1970s with the Bretton Woods and Smithsonian agreements, resulting in freely floating exchange rates and the deregulation of financial markets (Maitah & Smutka, 2018). The motivation lies in understanding how these factors, coupled with speculative activities, influence sugar prices, which have experienced unprecedented fluctuations.
 -  The research holds significance in the context of global economic dynamics, especially in understanding how financialization and speculative activities impact agricultural commodity markets. The findings can contribute to discussions on market stability, policy implications, and the broader implications of global economic trends on specific sectors like sugar production.
-## Unsolved Issues or Problems:
 -  The literature and real-world scenarios reveal a gap in understanding the intricate relationship between financialization, speculation, and the volatility of agricultural commodity prices, particularly in the sugar market. The rising interest of speculators and the unprecedented price fluctuations pose challenges that need exploration.
 ## Research Questions:
 1. How has the globalization and financialization of the world economy influenced the evolution of sugar prices?
@@ -24,7 +23,7 @@
 -  The research advances existing literature by providing insights into the dynamics of the sugar market under the influence of financialization and speculation. Limitations include the need for ongoing research to address evolving market conditions. The findings may inspire future studies on market stability and policy recommendations.
 -  The research contributes to discussions on the role of speculation in agricultural commodity markets, providing potential insights for policymakers, market participants, and researchers. Applications include informing decisions related to market regulations, risk management, and sustainable agricultural practices.
 ## Reference 
-Maitah, M., & Smutka, L. (2018). The Development of World Sugar Prices. Sugar Tech, 21(1), 1–8. https://doi.org/10.1007/s12355-018-0618-y
+-  Maitah, M., & Smutka, L. (2018). The Development of World Sugar Prices. Sugar Tech, 21(1), 1–8. https://doi.org/10.1007/s12355-018-0618-y
 
 # 1.2 Research Proposal
 ![flowchart](flowchart1.png)
