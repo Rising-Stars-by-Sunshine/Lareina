@@ -1,5 +1,6 @@
 # Advancing Causal Inference in Sugar Price Analysis Using Machine Learning
-
+![flowchart](flowchart12.png)
+*Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Background and Motivation
 
 The implications of price fluctuations in commodities like sugar are significant, impacting economies, industries, and farmers worldwide. Traditional economic modeling has often relied on linear regression techniques to predict future prices, but the ability to understand causal relationships within these market dynamics is crucial for sound decision-making. Our current research uses a linear regression machine learning algorithm to train part of the data with the aim of forecasting future sugar prices. Particularly, a regression discontinuity design has been employed to ascertain the causal impact of an exogenous shock—specifically, the Soviet Union's unexpected increase in sugar demand—on global sugar prices. This approach, however, offers a singular historical perspective on causality, raising the question of whether there are other influencing factors that sporadically affect sugar prices and if we can discern their causal effects.
@@ -26,7 +27,8 @@ The expected contributions of this research will have both intellectual and prac
 
 
 # Optimization of Sugar Price Prediction Using Reinforcement Learning
-
+![flowchart](flowchart13.png)
+*Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Background and Motivation
 
 Global sugar markets exhibit complex dynamics influenced by a myriad of factors ranging from global economic trends to environmental conditions. Accurate prediction of sugar prices is vital for market stability and can have profound impacts on multiple stakeholders, including producers, consumers, and policymakers. Our current research employs a linear regression machine learning algorithm for predictive modeling. While this approach offers valuable forecasts, optimization of policy decisions that impact sugar prices remains a challenge. To address this, we are exploring reinforcement learning for policy optimization in the sugar trade, acting on an initial use case where we've demonstrated a causal relationship between the Soviet demand increase and the consequential surge in world sugar prices using a regression discontinuity design.
