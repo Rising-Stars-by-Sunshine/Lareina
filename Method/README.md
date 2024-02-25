@@ -20,9 +20,8 @@ This research harnesses a time-series dataset ranging from the year 1960 to 2022
 We hypothesize that through the application of machine learning algorithms, it is possible to construct a model that will deliver effective predictions for future sugar prices based on historical time-series data.
 ### Justification
 This hypothesis is premised on the assumption that historical sugar price data contain inherent temporal patterns and trends which, when modeled through machine learning algorithms, allow for reliable future projections. The historical fluctuation in sugar prices is influenced by a confluence of factors including transaction policies, economic upheavals, and consumer demand patterns, thus offering a wealth of structured information for the predictive model to learn from.
-
-For the purposes of this investigation, the deployment of algorithms such as Long Short-Term Memory (LSTM) networks and Linear Regression will be examined. These methods are chosen for their aptitude in model temporal dependencies and sequences, which are indispensable in forecasting future time-series values.
 ### Machine Learning Algorithm Selection
+For the purposes of this investigation, the deployment of algorithms such as Long Short-Term Memory (LSTM) networks and Linear Regression will be examined. These methods are chosen for their aptitude in model temporal dependencies and sequences, which are indispensable in forecasting future time-series values.
 
 ## Model Development
 ### Data Processing
