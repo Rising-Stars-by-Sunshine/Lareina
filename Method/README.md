@@ -53,19 +53,18 @@ The anticipation of sugar price trends is vital for preventing market shocks and
 ## Operational Measures
 ### Variables
 1. **Dependent Variable:** 
-    - The dependent variable will be the mean monthly global sugar prices from 1960 to 2022, adjusted for inflation and expressed in constant currency terms.
+    - The dependent variable will be the monthly global sugar prices from 1960 to 2022, adjusted for inflation and expressed in constant currency terms.
 2. **Independent Variables:**
     - Time as a quantitative sequence, categorically partitioned into relevant fiscal quarters to investigate any seasonality effects.
 3. **Treatment Variables:**
     - Changes in global trade policies impacting sugar exports and imports, characterized as intervention points that potentially perturb the sugar price equilibrium.
 
 ### Data Type
-A comprehensive time-series data composition will be employed, consisting of not only the global sugar prices but also integrating a suite of economic, environmental, and geopolitical variables which are hypothesized to have substantial influences on these prices over the stipulated timeframe.
+A comprehensive time-series data composition will be employed, consisting of the global sugar prices.
 
 ## Hypothesis Development
-
 ### Causal Hypothesis
-We postulate that there exists a quantifiable and causative nexus between fluctuations in global sugar prices and a compendium of economic indicators, climate variability impacting production, policy alterations on trade, the introduction of technologically advanced farming techniques, and significant geopolitical upheavals.
+We postulate that there exists a quantifiable and causative nexus between fluctuations in global sugar prices and policy alterations on trade.
 
 ### Justification
 The premise of this hypothesis is rooted in the economic theory of supply and demand, where sugar prices are subject to the idiosyncrasies of global trade dynamics. Notably, policy changes manifest as pivotal inflection points that can either constrict or liberate market forces, reflected by alterations in commodity prices. For example, the institution of stringent trade barriers or sanctions can precipitate a supply-side crunch, escalating sugar prices, while liberalization efforts and the abatement of trade embargoes are likely to engender a competitive market scenario, potentially driving down prices.
@@ -73,9 +72,7 @@ The premise of this hypothesis is rooted in the economic theory of supply and de
 ## Machine Learning Algorithm and Package Selection
 
 ### Proposed Methodological Approach
-The analytical approach will harness the versatility of the Random Forest Regression model due to the multifaceted and dynamic nature of sugar price determinants. This ensemble learning technique amalgamates multiple decision trees to bolster prediction accuracy and model resilience against overfitting. Simultaneously, the study will employ Regression Discontinuity Design (RDD) to scrupulously dissect the causal relationships underlying the distinct events or policy shifts with the variegations in global sugar prices. The RDD methodology is particularly efficacious when a crisp cutoff or threshold demarcates the occurrence of an intervention, allowing us to analyze its immediate and long-term impacts on sugar prices.
+The study will employ Regression Discontinuity Design (RDD) to scrupulously dissect the causal relationships underlying the distinct events or policy shifts with the variegations in global sugar prices. The RDD methodology is particularly efficacious when a crisp cutoff or threshold demarcates the occurrence of an intervention, allowing us to analyze its immediate and long-term impacts on sugar prices.
 
 ### Technological Implementation
-For the implementation of the Random Forest Regression model, an advanced statistical computing environment like R or Python will be employed, utilizing comprehensive libraries such as `randomForest` in R or `scikit-learn` in Python. Additionally, to address the study's causal inference challenges, the `rdrobust` package in R or analogous Python libraries will be used to implement a robust RDD approach, permitting a nuanced elucidation of temporal thresholds and their effects on the dependent variable.
-
-This methodology, encapsulating temporal cutoffs coupled with sophisticated algorithmic constructs, is envisioned to yield a dual benefit—an enhancement in predictive analytics paired with the attunement to causal inference rigor, essential for disentangling the complexities of commodity markets like that of global sugar.
+For the implementation of the RDD, an advanced statistical computing environment like Python will be employed, utilizing comprehensive libraries such as'stargazer' or 'statsmodels' in Python, permitting a nuanced elucidation of temporal thresholds and their effects on the dependent variable. This methodology, encapsulating temporal cutoffs coupled with sophisticated algorithmic constructs, is envisioned to yield a dual benefit—an enhancement in predictive analytics paired with the attunement to causal inference rigor, essential for disentangling the complexities of commodity markets like that of global sugar.
