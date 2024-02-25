@@ -1,5 +1,7 @@
-# Result
+# Description 
+This file is used to describe the research result.
 ![flowchart](flowchart15.png)
+*Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 ## Result for prediction problem
 ### Below are the visualization of the result
 ![prediction](prediction1.png)
