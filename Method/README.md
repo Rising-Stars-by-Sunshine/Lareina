@@ -1,6 +1,6 @@
 # Description 
 This file is used to describe the research method.
-![flowchart](flowchart7.png)
+![flowchart](flowchart14.png)
 *Figure: flowchart created by [markmap.js](https://markmap.js.org/)*
 
 # The Prediction Problem
@@ -37,7 +37,7 @@ Employ a suite of visualization tools such as line charts, density plots, and an
 
 ## Model Evaluation
 ### Evaluation Criteria
-The evaluation of the model will utilize quantitative measures such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) to ascertain the predictive discrepancies. Additionally, the model’s interpretability and the explicability will be considered as critical factors in the evaluation process to ensure the model's utility to stakeholders.
+The evaluation of the model will utilize quantitative measures such as Mean Squared Error (MSE) and Coefficient of Determination(R²) to ascertain the predictive discrepancies. Additionally, the model’s interpretability and the explicability will be considered as critical factors in the evaluation process to ensure the model's utility to stakeholders.
 
 ### Iterative Improvement
 The research will be characterized by a continuous cycle of model refinement, involving hyperparameter tuning and possibly the consideration of alternative, more sophisticated algorithms such as ensemble methods or advanced neural networks to surpass the predictive power of the baseline models. This iterative process will integrate ongoing assessments and constructive feedback to steadily enhance predictive accuracy and ensure the model's applicability to real-world scenarios.
