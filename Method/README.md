@@ -8,7 +8,11 @@ This file is used to describe the research method.
 ### Objective
 The primary objective of this investigation is to develop and validate a predictive model using linear regression machine learning algorithms to forecast global sugar prices. The model will be grounded in rigorous quantitative analysis, leveraging historical time-series data to generate precise future price predictions.
 ### Significance
-Understanding the efficacy of machine learning models in projecting sugar prices is of paramount importance for a spectrum of stakeholders including producers, traders, policymakers, and other actors in the sugar industry. The capability to accurately forecast price movements facilitates not only strategic business decision-making but also the formulation of socioeconomic policies pertaining to the sugar trade. This study addresses the acute need for advanced analytical tools capable of navigating the complexity of commodity markets, offering valuable insights into the dynamics underpinning sugar price volatility.
+Understanding and forecasting global sugar prices hold considerable significance for various stakeholders in the sugar market, from farmers and refiners to traders and policymakers. The rationale behind developing a predictive model using linear regression machine learning algorithms to forecast global sugar prices is anchored on several key reasons supported by existing research and data:
+Firstly, economic research highlights the sugar industry's substantial role in global trade and employment. According to the International Sugar Organization (ISO), the sugar sector is a major economic driver in many countries and companies, contributing to both GDP and international trade dynamics (Narayan & Prasad, 2005). Predictive modeling can provide actionable insights for market participants to make informed decisions regarding production, investment, and trade.
+Additionally, from an environmental perspective, research underscores the need for sustainability in the sugar industry. Advances in predictive analytics can aid in managing the environmental footprint of sugar production by optimizing supply chain logistics, reducing waste, and encouraging responsible resource use (García et al., 2016).
+Lastly, the intersection of the sugar market with biofuel production has gained traction, as shown by energy sector analyses (Martin, 2007). A predictive model can guide biofuel producers in their planning and contribute to broader energy security strategies.
+In essence, developing and validating a machine learning model to forecast global sugar prices is not only a technologically innovative endeavor but one that holds profound implications across economic, environmental, and energy domains. This approach leverages existing data and statistical tools to provide foresight in a market that is integral to human society and has far-reaching global influence.
 ## Operational Measures
 ### Variables
 - **Dependent Variable (Y):** The dependent variable in this study is the Sugar Price, measured on a monthly basis.
@@ -42,6 +46,11 @@ The evaluation of the model will utilize quantitative measures such as Mean Squa
 ### Iterative Improvement
 The research will be characterized by a continuous cycle of model refinement, involving hyperparameter tuning and possibly the consideration of alternative, more sophisticated algorithms such as ensemble methods or advanced neural networks to surpass the predictive power of the baseline models. This iterative process will integrate ongoing assessments and constructive feedback to steadily enhance predictive accuracy and ensure the model's applicability to real-world scenarios.
 
+## References
+-    García, C. A., García-Treviño, E. S., Aguilar-Rivera, N., & Armendáriz, C. (2016). Carbon footprint of sugar production in Mexico. Journal of Cleaner Production, 112, 2632–2641. https://doi.org/10.1016/j.jclepro.2015.09.113
+-    Martin, V. L. (2007). Economics and agricultural market impacts of growing biofuel production. German Journal of Agricultural Economics, 56(05-06). https://doi.org/10.22004/ag.econ.96747
+-    Narayan, P. K., & Prasad, B. C. (2005). ECONOMIC IMPORTANCE OF THE SUGAR INDUSTRY FOR FIJI. Review of Urban and Regional Development Studies, 17(2), 104–114. https://doi.org/10.1111/j.1467-940x.2005.00097.x
+  
 # Causal Inference
 ## Research Question
 ### Aim and Importance
