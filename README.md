@@ -56,3 +56,8 @@ Intellectually, the project contributes to the field of econometrics by enhancin
 
 ### Poster Picture
 ![poster](poster.png)
+
+## Final Refelction
+I believe that using machine learning to address problems offers me a fresh or more reliable viewpoint. A lot of social science research limits itself to surveys or experiments, which can only produce correlation data at most. Nevertheless, if a machine learning algorithm applies, it may produce a more accurate outcome in terms of the degree of causal relationship. Thus, the magic of interdisciplinary research lies in its ability to break down myopic views that often limit problem-solving within one field. It's about combining the quantitative, computational precision of machine learning with the qualitative, nuanced understanding of socioeconomic landscapes. The result is an enriched perspective that fosters comprehensive solutions to challenges such as inequality, environmental sustainability, and economic stability.
+Professionally, this course catalyzes growth by necessitating the mastery of a diverse skill set. It's not merely about understanding algorithms and data structures; it's also about cultivating an analytical mindset and developing the ability to communicate complex concepts. 
+I don't have a clear idea about what I will become the mother and founding father of currently. However, after taking this course, I feel more competent and eager to use cutting-edge technology to solve issues that support the advancement of human society. Having studied psychology, I am also increasingly convinced that developing advanced algorithms can benefit mental health in people and the prevention and treatment of mental illness which is the field I want to dedicate myself to. 
