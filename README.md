@@ -35,23 +35,23 @@ This resource is devoted to studies and research on global sugar price predictio
 
 ## Project Summary
 
-### [Background/Motivation]
+### Background/Motivation
 The primary objective of this investigation is to develop and validate a predictive model using linear regression machine learning algorithms to forecast global sugar prices. The second aim is to detect, analyze, and establish a scientifically substantiated causal relationship between the influential event and the consequent changes in sugar prices. Becasue understanding global sugar prices is crucial due to the pivotal role they play in the economies of many countries and their impact on health and environmental sustainability.Studying it also helps in attenuating economic vulnerabilities, fortifying food security, and endorsing sustainable agricultural practices globally.
 
-### [Hypothesis]
+### Hypothesis
 1. How can linear regression machine learning algorithms be optimized to forecast global sugar prices?
 2. There exists a quantifiable and causative nexus between fluctuations in global sugar prices and policy alterations on trade. In this case, the policy include US embargo on Cuba and common agricultural policy (CAP) implemented by European Union (EU).
 
-### [Data Source]
+### Data Source
 The research utilizes monthly historical data sets on sugar prices from 1960 to 2022 collected by world bank.
 
-### [Methodology]
+### Methodology
 Linear regression machine learning algorithms, which were trained using robust historical pricing data will be used. Regression Discontinuity Design (RDD) will also be used to dissect the causal relationships underlying the distinct events or policy shifts with the variegations in global sugar prices.
 
-### [Results]
+### Results
 The model reasonably predicts sugar prices with an R² of 0.695, suggesting that roughly 69.5% of the variance in sugar prices is predictable by the model. The low MSE indicates that the model has a small error magnitude in the context of sugar price predictions.Thus, predictive model confirms that historical sugar prices can be used to forecast future prices with reasonable accuracy and low prediction error. Also, the occurrence of the EC Sugar Regime and the US Embargo on Cuba is associated with significant fluctuations in global sugar prices, validating the suspected causal relationship.
 
-### [Intellectual Merits and Practical Impacts of Your Project]
+### Intellectual Merits and Practical Impacts of Your Project
 Intellectually, the project contributes to the field of econometrics by enhancing the understanding of how machine learning can be applied to economic forecasting. Practically, it offers tools for stakeholders in the sugar market to make more informed decisions, thereby potentially stabilizing market fluctuations and contributing to more sustainable economic planning.
 
 ### Poster Picture
